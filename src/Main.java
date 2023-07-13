@@ -17,7 +17,7 @@ public class Main {
             System.out.println(creditPaymentTwoYears);
         }
 
-        System.out.println();git add 
+        System.out.println();
 
         {
             CreditPaymentThreeYears service = new CreditPaymentThreeYears();
