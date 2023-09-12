@@ -5,4 +5,4 @@ public class CreditPaymentService {
         int result = (int) (creditAmount * monthlyPayment);
         return result;
     }
-        }
+}
